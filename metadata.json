@@ -1,0 +1,5 @@
+{
+  "name": "Xiangqi Master (AI & Gemini)",
+  "description": "A sophisticated single-player Chinese Chess game featuring a local Minimax AI engine and a Gemini-powered Grandmaster Advisor.",
+  "requestFramePermissions": []
+}
